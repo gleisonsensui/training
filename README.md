@@ -1,0 +1,2 @@
+<h1 align="center">JS Bank</h1>
+<p>Este projeto tem por finalidade servir de base para a evolução do conhecimento em desenvolvimento de software com a linguagem javascript e frameworks e ferramentas com base nessa linguagem.</p>

@@ -11,16 +11,9 @@ let amountInstallment = 36;
 let loanAmount = 10000.00;
 let creditStatus = 'yes';
 
-let exibir = `
-${id_client}
-${nameClient} ${lastNane} 
-${ageClient} 
-${interestRate} 
-${amountInstallment} 
-${loanAmount.toFixed(2)} 
-${creditStatus}`;
+const customerGreeting = `Good Morning, Mr. ${nameClient} ${lastNane}. Your age is ${ageClient}. You're welcome.`;
 
-console.log(exibir);
+
 
 
 
